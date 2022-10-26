@@ -1,11 +1,7 @@
 package Simbir.com.UITests.TestSwipe;
 
-import Simbir.com.Mangers.ManagerDriver;
-import Simbir.com.UITests.TestBase;
-import io.appium.java_client.android.AndroidDriver;
-import io.appium.java_client.android.nativekey.AndroidKey;
 import io.qameta.allure.Story;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.DisplayName;
 
 @DisplayName("Свайп")

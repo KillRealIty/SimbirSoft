@@ -8,8 +8,6 @@ import java.io.FileInputStream;
 import java.io.IOException;
 import java.util.Properties;
 
-import static java.lang.System.getProperty;
-
 public class DeviceDataReader {
 
     public static DesiredCapabilities getDesiredCapabilities() {

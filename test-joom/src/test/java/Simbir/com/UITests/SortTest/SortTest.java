@@ -1,8 +1,7 @@
 package Simbir.com.UITests.SortTest;
 
-import Simbir.com.Pages.SearchMenu.SearchPage;
 import io.qameta.allure.Story;
-import org.junit.Test;
+import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.DisplayName;
 
 @DisplayName("Сортировка")
