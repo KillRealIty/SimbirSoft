@@ -9,3 +9,4 @@ Apk файл находится в папке /test-joom/app
 3. Appium-Inspector-windows-2022.9.1.exe
 4. Тесты находятся в папке \test-joom\src\test\java\Simbir\com\UITests
 5. Текстовый файл с тест кейсами - TestCase.doc на главной странице проекта
+6. Сократил селекторы, какие было возможно
